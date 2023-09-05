@@ -7,6 +7,10 @@ git clone https://github.com/ripalnakiya/Banking-System.git
 ```
 
 ```sh
+cd Banking-System/
+```
+
+```sh
 g++ -o BankingSystem BankingSystem.cpp
 ```
 
