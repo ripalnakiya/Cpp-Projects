@@ -1,4 +1,4 @@
-This is Console Based Banking System, built using C++.
+## Console Based Banking System - built using C++.
 
 To Run this Project:
 
@@ -18,4 +18,4 @@ g++ -o BankingSystem BankingSystem.cpp
 ./BankingSystem
 ```
 
-> Note: Make sure have GCC installed.
+> Note: Make sure have GCC compiler installed.
